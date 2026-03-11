@@ -1,4 +1,4 @@
-# FakeStoreAPI 自动化测试项目
+# FakeStoreAPI 电商测试项目
 
 ## 项目概述
 
