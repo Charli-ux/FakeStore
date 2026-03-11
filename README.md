@@ -143,8 +143,3 @@ pytest src/ -v --html=reports/full_test_report.html
 ### 许可证
 本项目遵循MIT开源协议
 
----
-
-**项目状态**: ✅ 生产就绪  
-**最后更新**: 2025-03-20  
-**维护者**: [您的姓名]
